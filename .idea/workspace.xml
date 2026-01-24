@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8819d34a-fd9b-4af1-af54-522c49aad81c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api/src/main/java/com/hkprogrammer/api/core/test/CoreResourceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api/src/test/java/com/hkprogrammer/api/api/controller/LoginControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api/src/test/resources/application-test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api/src/test/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api/src/test/resources/json/group/create.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api/src/test/resources/json/login/login.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/routes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/routes/calculators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/main_bkp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../back-end/venomous-radar-api" beforeDir="false" afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../back-end/venomous-radar-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../back-end/venomous-radar-api/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../back-end/venomous-radar-api/src/test/java/com/hkprogrammer/api/commons/controller/CategoryTestDataBuilderIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../front-end/radar_peconhento_mobile" beforeDir="false" afterPath="$PROJECT_DIR$/../../front-end/radar_peconhento_mobile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation" beforeDir="false" afterPath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/models/efficientnetb0.keras" beforeDir="false" afterPath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/models/efficientnetb0.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/models/mobilenetv2.keras" beforeDir="false" afterPath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/models/mobilenetv2.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/models/resnet50.keras" beforeDir="false" afterPath="$PROJECT_DIR$/../radar-peconhento-cnn-evaluation/models/resnet50.keras" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="38gXHuQ6qHpnw1DIdYtHNmka3Nw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.run.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/workspace/radar-peconhento/ia/FlaskProject/src/main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\radar-peconhento\ia\FlaskProject\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\radar-peconhento\ia\FlaskProject\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FlaskProject" type="Python.FlaskServer">
+      <module name="FlaskProject" />
+      <option name="target" value="$PROJECT_DIR$/run.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8819d34a-fd9b-4af1-af54-522c49aad81c" name="Changes" comment="" />
+      <created>1769222103979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769222103979</updated>
+      <workItem from="1769222105042" duration="536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FlaskProject$run.coverage" NAME="run Coverage Results" MODIFIED="1769222466902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
